@@ -24,12 +24,20 @@ I’m a computer science student passionate about building efficient, scalable a
 - ⚙️ Worked extensively with **Git & GitHub** for version control, collaboration, and project management.
 
 
-## 🛠 Tools:
+## 🛠 Tools & Technologies
 
-- **Languages**: PHP, Python, Java, SQL, HTML, CSS
-- **Frameworks & Libraries**: Laravel, Bootstrap, Tailwind CSS
-- **Tools**: MySQL Workbench, VS Code, Postman, PyCharm, XAMPP
-- **Currently Learning**: Deepening my knowledge in **React** and **Next.js**.
+- **Languages**: PHP, Python, Java, SQL, HTML, CSS  
+- **Frameworks & Libraries**: Laravel, Bootstrap, Tailwind CSS  
+- **Machine Learning & AI**:  
+  - Pandas, NumPy (data processing & analysis)  
+  - Scikit-learn (predictive modeling & forecasting)  
+  - Matplotlib, Seaborn (data visualization)  
+  - Jupyter Notebook (experimentation & model evaluation)  
+- **Databases**: MySQL, Firebase  
+- **APIs & Integrations**: REST APIs  
+- **Tools**: MySQL Workbench, VS Code, Postman, PyCharm, XAMPP, Git & GitHub  
+- **Currently Learning**: Deepening my knowledge in **React** and **Next.js**
+
 
 ---
 
