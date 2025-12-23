@@ -11,11 +11,18 @@ I’m a computer science student passionate about building efficient, scalable a
 - **Frontend**: Experienced with **Tailwind CSS** and **Bootstrap** for crafting responsive, user-friendly interfaces.
 - **Data Handling**: Skilled in data cleaning, transformation, and integration using **Postman** and **JSON/CSV** formats.
 
-### 🚀 Project Highlights:
-- Built a **rental app** and **music app clone** with **Laravel**, **MySQL**, and **M-Pesa integration**.
-- Developed a **car rental clone** in **Java** and completed advanced **database labs**.
+## 🚀 Project Highlights
 
----
+- 🩸 Built **OptiBlood**, a **Machine Learning–driven blood shortage and donor availability prediction system** that leverages forecasting and AI techniques to support proactive healthcare decision-making.
+  
+- 📊 Developed a **student budget tracking system** using **Laravel**, **PHP**, and **MySQL** to help students monitor expenses, manage income, and improve financial planning.
+  
+- 🤖 Applied **data analysis, feature engineering, and predictive modeling** to extract actionable insights and improve system accuracy.
+  
+- 🔐 Implemented **secure authentication, CRUD operations, and efficient database design** across projects using modern development best practices.
+  
+- ⚙️ Worked extensively with **Git & GitHub** for version control, collaboration, and project management.
+
 
 ## 🛠 Tools:
 
